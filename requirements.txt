@@ -1,2 +1,4 @@
-pip (9.0.1)
-setuptools (28.8.0)
+Package    Version
+---------- -------
+pip        19.3.1 
+setuptools 28.8.0 
